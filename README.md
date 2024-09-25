@@ -1,4 +1,4 @@
-![screencapture-localhost-5173-font-group-2024-09-25-21_33_46](https://github.com/user-attachments/assets/4c886c1e-72aa-437b-b726-3318bf398860)# React + Vite
+# React + Vite
 ![screencapture-localhost-5173-2024-09-25-21_21_51](https://github.com/user-attachments/assets/5e1389f0-c7b1-45c1-91ba-d41c20f80259)
 
 ![screencapture-localhost-5173-font-group-2024-09-25-21_33_46](https://github.com/user-attachments/assets/91df0dc9-9d3c-4c77-87ee-30cb9d0396c0)
